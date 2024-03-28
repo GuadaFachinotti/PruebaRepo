@@ -5,6 +5,7 @@ namespace RepoTest
         [Fact]
         public void Test1()
         {
+            int edad = 15;
 
         }
     }
